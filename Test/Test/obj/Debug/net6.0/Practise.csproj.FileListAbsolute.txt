@@ -1,0 +1,15 @@
+C:\Users\Anna\source\repos\Test\Test\bin\Debug\net6.0\Practise.exe
+C:\Users\Anna\source\repos\Test\Test\bin\Debug\net6.0\Practise.deps.json
+C:\Users\Anna\source\repos\Test\Test\bin\Debug\net6.0\Practise.runtimeconfig.json
+C:\Users\Anna\source\repos\Test\Test\bin\Debug\net6.0\Practise.dll
+C:\Users\Anna\source\repos\Test\Test\bin\Debug\net6.0\Practise.pdb
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.csproj.AssemblyReference.cache
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.AssemblyInfo.cs
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.dll
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\refint\Practise.dll
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.pdb
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\Practise.genruntimeconfig.cache
+C:\Users\Anna\source\repos\Test\Test\obj\Debug\net6.0\ref\Practise.dll
